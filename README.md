@@ -20,11 +20,6 @@ pip3 install anaconda3
 conda install hvplot
 pip3 install scikit-learn
 
-Below modules are needed to save hvplot images
-
-conda install selenium
-conda install -c conda-forge firefox geckodriver
-
 Before running the code, conda environment must be created and activated.
 
 conda create -n cenv python=3.10.6
